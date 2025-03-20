@@ -8,24 +8,24 @@ Welcome to the Finance and Market Analytics project repository. This project lev
 
 
 2. **SQL Queries For Analysis**:
-   - [Finance Analytics report](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Queries%20for%20Analysis/Finance%20Analytics%20SQL%20Queries.sql) : This file contains SQL queries that calculate monthly and annual sales for a specific customer named "Croma."
+   - [Finance Analytics report](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Queries%20for%20Analysis/Finance%20Analytics%20SQL%20Queries.sql) : This file contains SQL queries that calculate monthly and annual sales for a specific customer named "Croma."
 
-   - [Top Products, Customers and Markets report](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Queries%20for%20Analysis/Top%20Products%2C%20Customers%2C%20Markets%20SQL%20Queries.sql) : This file includes SQL queries that perform various operations to calculate net sales, and then identify the top customers, top products, and top markets based on the results.
+   - [Top Products, Customers and Markets report](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Queries%20for%20Analysis/Top%20Products%2C%20Customers%2C%20Markets%20SQL%20Queries.sql) : This file includes SQL queries that perform various operations to calculate net sales, and then identify the top customers, top products, and top markets based on the results.
 
-   - [Supply Chain Analytics report](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Queries%20for%20Analysis/Supply%20Chain%20Analytics%20SQL%20Queries.sql) : The SQL queries in this file assess forecast accuracy for the years 2020 and 2021, and provide a comparison between the two years.
+   - [Supply Chain Analytics report](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Queries%20for%20Analysis/Supply%20Chain%20Analytics%20SQL%20Queries.sql) : The SQL queries in this file assess forecast accuracy for the years 2020 and 2021, and provide a comparison between the two years.
 
-3. **Views**: We've created a view named [net_sales](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Views%20and%20Functions/net_sales.sql) to simplify the process of finding net sales. You can use this view instead of writing the same query repeatedly.
+3. **Views**: We've created a view named [net_sales](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Views%20and%20Functions/net_sales.sql) to simplify the process of finding net sales. You can use this view instead of writing the same query repeatedly.
 
 4. **Stored Procedures**:
-   - [get_forecast_accuracy.sql](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Stored%20Procedures/get_forecast_accuracy.sql) : This stored procedure calculates forecast accuracy for a given period.
-   - [get_top_n_customers_by_net_sales.sql](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Stored%20Procedures/get_top_n_customers_by_net_sales.sql) : This stored procedure identifies the top customers based on sales.
-   - [get_top_n_products_by_net_sales.sql](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Stored%20Procedures/get_top_n_products_by_net_sales.sql) : This stored procedure identifies the top products based on sales.
-   - [get_top_n_markets_by_net_sales.sql](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Stored%20Procedures/get_top_n_markets_by_net_sales.sql) : This stored procedure identifies the top markets based on sales.
-   - [get_market_badge.sql](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Stored%20Procedures/get_market_badge.sql) : This stored procedure assigns a market badge value (e.g., "GOLD" or "SILVER") based on sales performance.
+   - [get_forecast_accuracy.sql](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Stored%20Procedures/get_forecast_accuracy.sql) : This stored procedure calculates forecast accuracy for a given period.
+   - [get_top_n_customers_by_net_sales.sql](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Stored%20Procedures/get_top_n_customers_by_net_sales.sql) : This stored procedure identifies the top customers based on sales.
+   - [get_top_n_products_by_net_sales.sql](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Stored%20Procedures/get_top_n_products_by_net_sales.sql) : This stored procedure identifies the top products based on sales.
+   - [get_top_n_markets_by_net_sales.sql](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Stored%20Procedures/get_top_n_markets_by_net_sales.sql) : This stored procedure identifies the top markets based on sales.
+   - [get_market_badge.sql](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Stored%20Procedures/get_market_badge.sql) : This stored procedure assigns a market badge value (e.g., "GOLD" or "SILVER") based on sales performance.
 
 5. **Functions**:
-   - [get_fiscal_year.sql](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Views%20and%20Functions/get_fiscal_year.sql) : This function is designed to find the fiscal year for a given date.
-   - [get_fiscal_quarter.sql](https://github.com/jainil20/SQL---Finance-and-Market-Analysis/blob/main/Views%20and%20Functions/get_fiscal_quarter.sql) : This function calculates the fiscal quarter for a given date.
+   - [get_fiscal_year.sql](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Views%20and%20Functions/get_fiscal_year.sql) : This function is designed to find the fiscal year for a given date.
+   - [get_fiscal_quarter.sql](https://github.com/divyanshu-mayank/finance-and-market-analysis./blob/main/Views%20and%20Functions/get_fiscal_quarter.sql) : This function calculates the fiscal quarter for a given date.
 
 ## Getting Started
 
